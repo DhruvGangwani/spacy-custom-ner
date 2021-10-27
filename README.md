@@ -1,6 +1,7 @@
 # spacy-custom-ner
 Custom Spacy NER model to extract entities from resumes
 
+Dataset is avaliable on kaggle : https://www.kaggle.com/dataturks/resume-entities-for-ner
 
 The dataset has 220 items of which 220 items have been manually labeled.
 
